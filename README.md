@@ -2,6 +2,8 @@
 
 smart_predict_optimize is a Python implementation of the "Smart, Predict then Optimize" (Elmachtoub and Grigas, 2021) framework that aims to compare the computational efficiency and performance of optimizing a linear SPO model with a Linear Program versus Stochastic Gradient Descent.
 
+This project was completed as part of the course MIE424 Optimization in Machine Learning offered at the University of Toronto. The accompanying report to this code is in the repository as [MIE424_ProjectReport.pdf](MIE424_ProjectReport.pdf).
+
 ## Package installation
 
 All packages that are used can be found in requirements.txt. To install all packages, run the following:
